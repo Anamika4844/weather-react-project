@@ -9,6 +9,7 @@ export default function App() {
         <footer>
           This project was coded by Anamika Saxena and{" "}
           <a
+            rel="noreferrer"
             href="https://github.com/Anamika4844/weather-react-projectn"
             target="_blank"
           >
